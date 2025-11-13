@@ -1,0 +1,8 @@
+my-fullstack-app/
+├─ frontend/        # React app (Vite)
+├─ backend/         # Express app
+├─ docker-compose.yml
+├─ .github/
+│  └─ workflows/
+├─ README.md
+└─ .gitignore
