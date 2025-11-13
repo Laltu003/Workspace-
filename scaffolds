@@ -1,0 +1,14 @@
+# frontend
+npm create vite@latest frontend --template react
+cd frontend
+npm install
+cd ..
+
+# backend
+mkdir backend
+cd backend
+npm init -y
+npm install express pg dotenv cors
+# add dev tools
+npm install --save-dev nodemon eslint
+cd ..
